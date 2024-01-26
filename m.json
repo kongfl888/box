@@ -4,7 +4,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider": "./libs/fty.jar;md5;5543dae038ce2248e7759e9cbca295b9",
 "lives": [
-{"name": "live","type": 0,"url":"https://pastebin.com/raw/ybSuEMjs","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+{"name": "live","type": 0,"url":"https://tv.203511.xyz/bc.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
   ],
 "sites": [
 //{"comment":"HEAD"},
