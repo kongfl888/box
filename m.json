@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider": "./libs/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
+"spider": "./jar/fan.txt;md5;a9116fd283f503f4627f65b22b2ec430",
 "lives": [
 {"name": "live","type": 0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
   ],
@@ -13,19 +13,22 @@
 {"key": "YGP","name": "🚀叨观荐影┃速递","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0 },
 
 {"key": "dr_看荐片","name": "🔥荐片影视","type": 3,"api": "./libs/merge.min.js","searchable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"ext": "./libs/荐片.js"},
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key": "玩偶表哥","name": "👽玩偶表哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/Cloud-drive.txt+4k|auto$$$https://wobge.run.goorm.io$$$弹"},
-{"key":"csp_xml_CK资源","name":"🌻CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1},
 
-
-{"key":"米搜","name":"🦋小米┃盘搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"米搜","name":"🦋小米┃盘搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"Lib","name": "🌟立播┃盘搜","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"PanSso","name":"🐌盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"YpanSo","name":"🐟盘她┃三盘","type":3,"api":"csp_YpanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_xzso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"夸搜","name":"🐟夸搜┃狸夸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"PanSou","name":"🦊盘搜┃阿狸","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"UpYun","name":"😻Up搜┃阿狸","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
 {"key": "YiSo2","name": "😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/Cloud-drive.txt+4k|auto|fhd" },
@@ -33,7 +36,7 @@
 {"key": "PanSearch2","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/Cloud-drive.txt+4k|auto|fhd" },
 
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","jar":"./libs/fan2.txt;md5;a03f49920c6d446f807072b30842f781","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","jar":"./jar/fan2.txt;md5;6c4ab3a9d232164c75534f9060506ee5","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
@@ -78,7 +81,8 @@
 {"key":"csp_xml_39影视","name":"🐝3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_暴風","name":"🐝暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_xml_索尼","name":"🐝索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"csp_xml_ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
+{"key":"csp_xml_ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
+{"key":"csp_xml_CK资源","name":"🌻CK 资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"dr_libvio","name":"🌤立播┃JS","type":3,"api":"./libs/drpy2.min.js","ext":"./libs/LIBVIO.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"./libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./libs/drpy.js"},
