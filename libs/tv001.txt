@@ -170,12 +170,6 @@ Penthouse,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 AbnChina,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 RT-NEWS,https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
 RT-DOC,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-Pure,http://78.47.224.234/puretaboo/index.m3u8
-PB,http://23.237.100.82:8000/PLAYBOY/index.m3u8
-Star,http://live.adultiptv.net/pornstar.m3u8
-Ban,https://13k4ivgg.fortuneculture.com/20230103/tuKqMc77/index.m3u8
-Bla,https://13k4ivgg.fortuneculture.com/20230103/C5S27vvx/index.m3u8
-Xj,https://13k4ivgg.fortuneculture.com/20221231/KgFcM0Dh/index.m3u8
 Mytime,https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 mytime us,https://mytime-tcl.amagi.tv/playlist.m3u8
 moviebox,https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
@@ -184,5 +178,3 @@ moviebox,https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 Rakuten,https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 30aTV,https://30a-tv.com/my999.m3u8
 GTN,https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
-Hunt,https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
