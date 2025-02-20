@@ -2,7 +2,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider": "./jar/fan.txt;md5;0d0e3817ef4fd3f0526b3d52f60da991",
 "lives": [
-{"name": "live","type": 0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+{"name": "live","type": 0,"url":"./libs/tv001.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
   ],
 "sites": [
 {"key":"csp_xml_ck_head","name":"📺影视导航(播放失败请退出应用再回到历史)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":1,"filterable":1,"categories":["国产剧","香港剧","欧美剧","日本剧","台湾剧","动漫片","剧情片","悬疑片","战争片","科幻片","动作片","喜剧片","恐怖片","国产动漫","日韩动漫"]},
