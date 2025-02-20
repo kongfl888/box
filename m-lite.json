@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-
+"spider": "./jar/fanbak.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
 "lives": [
 {"name": "live","type": 0,"url":"https://7337.kstore.space/twkj/tvzb.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
   ],
@@ -40,6 +40,8 @@
 {"key":"dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"api": "./libs/drpy2.min.js","ext": "./libs/兔小贝.js","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0 },
 {"key":"dr_贱贱","name": "🐭贱贱┃p2p","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./libs/drpy2.min.js","ext": "./libs/jp.js" },
 {"key":"dr_4KHDR","name": "🧲世界磁力┃慎用","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "./libs/drpy2.min.js","ext": "./libs/4khdr.js" },
+
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
 {"key":"88js","name":" 88┃看球","type":3,"api":"https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js","ext":"https://notabug.org/fantaiying/ext/raw/main/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0}
 ],
