@@ -28,8 +28,9 @@
 
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
-{"key":"csp_woog","name":"🐲欧歌┃4K弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"./jar/woog.txt;md5;d13000ce089d8dca65cf9eaa99a8f0fe","ext":{"site_urls":["https://woog.xn--dkw.xn--6qq986b3xl"]}},
-{"key":"csp_oguc","name":"🐲欧歌┃uc弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"./jar/woog.txt;md5;d13000ce089d8dca65cf9eaa99a8f0fe","ext":{"site_urls":["https://oguc.xn--dkw.xn--6qq986b3xl"]}},
+{"key":"csp_woog","name":"🐲欧歌1┃4K弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"./jar/woog2.txt;md5;f1fcfcd1594618527ab167b766167877","ext":{"site_urls":["https://woog.xn--dkw.xn--6qq986b3xl"]}},
+{"key":"csp_oguc","name":"🐲欧歌1┃uc弹幕","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"./jar/woog2.txt;md5;f1fcfcd1594618527ab167b766167877","ext":{"site_urls":["https://oguc.xn--dkw.xn--6qq986b3xl"]}},
+{"key":"csp_欧歌C1","name":"🐲欧歌1┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"./jar/woog2.txt;md5;f1fcfcd1594618527ab167b766167877"},
 {"key":"csp_woog2","name":"🐲欧歌┃夸快4K","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"./jar/oga3.txt;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.xn--dkw.xn--6qq986b3xl"]}},
 {"key":"csp_欧歌G","name":"🐲欧歌4K┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"./jar/woogconf.txt;md5;2d68907e16b4a9809ca25071c739245c"},
 {"key":"csp_红狐狸影视","name":"🧿狐狸┃影视","type":3,"jar":"./jar/ogou.txt;md5;0baaf4986d05c592008d8248f4624f94","api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
