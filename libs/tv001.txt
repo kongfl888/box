@@ -157,12 +157,12 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 樱桃小丸子,https://live.iill.top/huya/11342394
 樱桃小丸子,http://dns.yiandrive.com:15907/huya/11342394
 
-小小猫和老鼠,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4073ef3fd8744b9eb7177ff4c94fd1df/1200.m3u8
-小小猫和老鼠,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/4073ef3fd8744b9eb7177ff4c94fd1df/2000.m3u8
-新猫和老鼠1,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/df148c0211c741d483c83565b2395cb7/1200.m3u8
-新猫和老鼠1,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/df148c0211c741d483c83565b2395cb7/2000.m3u8
-新猫和老鼠2,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/a07e0a45b857468b996e92a48fa49d46/1200.m3u8
-新猫和老鼠2,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a07e0a45b857468b996e92a48fa49d46/2000.m3u8
+小小猫和老鼠,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4073ef3fd8744b9eb7177ff4c94fd1df/850.m3u8
+小小猫和老鼠,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4073ef3fd8744b9eb7177ff4c94fd1df/1200.m3u8
+新猫和老鼠1,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/df148c0211c741d483c83565b2395cb7/850.m3u8
+新猫和老鼠1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/df148c0211c741d483c83565b2395cb7/1200.m3u8
+新猫和老鼠2,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/a07e0a45b857468b996e92a48fa49d46/850.m3u8
+新猫和老鼠2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a07e0a45b857468b996e92a48fa49d46/1200.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/850.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/2000.m3u8
@@ -174,15 +174,15 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/1733da751de64e6e910abda889d87a26/850.m3u8
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-熊出没逆转时空,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1d862fa4b4ce4527a01e45e1cd6c3e01/2000.m3u8
+熊出没逆转时空,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/1d862fa4b4ce4527a01e45e1cd6c3e01/850.m3u8
 熊出没逆转时空,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1d862fa4b4ce4527a01e45e1cd6c3e01/1200.m3u8
 云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/850.m3u8
 云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-憨豆先生1,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/bd1b326c5553457981b45c0b83c42cf4/1200.m3u8
-憨豆先生1,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bd1b326c5553457981b45c0b83c42cf4/2000.m3u8
-憨豆先生2,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/fe61bf2d2f854eda8898e0ade248984f/1200.m3u8
-憨豆先生2,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fe61bf2d2f854eda8898e0ade248984f/2000.m3u8
-葫芦兄弟,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e7c473ad04dc45009520382dbc80f59b/2000.m3u8
+憨豆先生1,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/bd1b326c5553457981b45c0b83c42cf4/850.m3u8
+憨豆先生1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bd1b326c5553457981b45c0b83c42cf4/1200.m3u8
+憨豆先生2,https://hls.cntv.lxdns.com/asp/hls/850/0303000a/3/default/fe61bf2d2f854eda8898e0ade248984f/850.m3u8
+憨豆先生2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe61bf2d2f854eda8898e0ade248984f/1200.m3u8
+葫芦兄弟,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e7c473ad04dc45009520382dbc80f59b/850.m3u8
 葫芦兄弟,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/e7c473ad04dc45009520382dbc80f59b/1200.m3u8
 喜羊羊和灰太狼,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/76e9d94680bb44269444f28f410c22b7/850.m3u8
 
