@@ -1,6 +1,7 @@
 
 央视,#genre#
-TV001,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+TV001,https://tv.iill.top/migu/cctv13
+TV001,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 超时设30秒,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/df148c0211c741d483c83565b2395cb7/850.m3u8
 CCTV4(IPV6),http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV4(IPV6),http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -11,12 +12,18 @@ CCTV5+(IPV6),http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/888888
 CCTV6(IPV6),http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
+CCTV4,https://tv.iill.top/migu/cctv4
 CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV4,http://sport.pendy.dpdns.org/migu/608807419?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV4,http://goo.bkpcp.top/mg/cctv4o
 CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4
-CCTV4,http://123.145.68.106:8002/udp/225.0.4.176:7980
+CCTV4,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv4
+CCTV4,http://gmxw.7766.org:808/hls/22/index.m3u8
 CCTV4,http://58.58.111.222:808/hls/4/index.m3u8
+CCTV4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8
+CCTV4,http://221.0.78.26:881/hls/50204/index.m3u8
+CCTV4,http://27.46.95.96:808/hls/4/index.m3u8
+CCTV4欧洲,http://sport.pendy.dpdns.org/migu/608807419?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV4欧洲,http://goo.bkpcp.top/mg/cctv4o
+CCTV4欧洲,https://tv.iill.top/migu/cctv4o
 CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV5,http://tvbox6.icu/tv/migu.php?id=cctv5
 CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
@@ -28,15 +35,23 @@ CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV13,http://ygbh.site/php/bfgd.php?id=067
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV13,https://haoyunlai.serv00.net/Smartv-1.php?id=cctv13
+CCTV13,https://tv.iill.top/migu/cctv13
 CCTV13,http://222.84.234.80:4022/udp/239.81.0.26:4056
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV13,http://123.145.68.106:8002/udp/225.0.4.219:7980
+CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/playlist.m3u8
+CCTV+,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4.smil/playlist.m3u8
+CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CGTN,https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
-CGTN英语,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CEC文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8$官方源
 CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8$官方源
 CEC教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8$官方源
@@ -50,6 +65,7 @@ CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 深圳卫视,http://cssbyd.imwork.net:8082/hls/28/index.m3u8
 湖南卫视,http://cssbyd.imwork.net:8082/hls/17/index.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=ec79a0d817981989c161f548c48c2954&txTime=1903e79e680
 深圳电视剧,http://jxtv3.gdsz.eu.org:8081/hls/18/index.m3u8
@@ -63,17 +79,31 @@ iPanda,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
 港台频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8?$720x576
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=faa6f9d2604978c66265a584fa56a443&ext_start_limit=1747678921&int_start_limit=1747678921&ts=1747678921&c=241564436
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰中文,http://122.235.212.26:4000/udp/233.50.200.42:5140
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,https://stream1.freetv.fun/d9c119544f1760041bb610b865e55c930f22cebfd36d420ed6811757be416936.m3u8
 凤凰中文,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰资讯,https://stream1.freetv.fun/03b8b50959f71c9480228564b4fedbe3cd0927a427d0bc903059a5843cb7c4b6.m3u8
+凤凰资讯,https://stream1.freetv.fun/3015e9f45be8ed1f63adf297447deae053d8d195e40fbe4a12b5d620dd11e03a.m3u8
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线翡翠,http://cdn.iptv8k.top/dl/jspd.php?id=3
@@ -83,17 +113,26 @@ iPanda,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 无线翡翠,https://cdn3.163189.xyz/live/fct/stream.m3u8
 无线翡翠,http://cdn5.1678520.xyz/live/?id=fct
 无线翡翠,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+无线翡翠,https://yang-1989.eu.org/live/TVB-Jade
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 华丽翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线新闻台,https://yang-1989.eu.org/live/TVB-News-Channel
+无线新闻台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=1ba9a71ae48009bbdfa6803ae5834842&ext_start_limit=1747678920&int_start_limit=1747678920&ts=1747678920&c=241564436
 TVB Plus,https://cdn.163189.xyz/live/tvbp/stream.m3u8
 TVB Plus,http://cdn5.1678520.xyz/live/?id=tvbp
 TVB Plus,http://cdn.1678520.xyz/live/?id=tvbp
 TVB Plus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
+星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+星空卫视,http://118.113.133.9:8888/udp/239.93.0.156:2193
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视,http://ali.hlspull.yximgs.com/live/af12bca041e297f8c44cb110c9aac365.flv
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,https://stream1.freetv.fun/44367224fcb8f2e3e574ffb2e29a83b9caf6218da64b454c03e0b31e8124e11d.m3u8
+星空卫视,https://stream1.freetv.fun/295e40de2803afdf3bdd9e10c5468e14227aca3ddcb253c76c5124bd0b09e1a7.m3u8
+莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 RTHK-32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
@@ -114,6 +153,7 @@ momoTV,rtmp://f13h.mine.nu/sat/tv761
 电影频道,#genre#
 美亚电影频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影频道,http://php.jdshipin.com:8880/PLTV/iptv.php?id=meiya
+美亚电影频道,http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=f805e219bc90cf13580fa5094983d4f4&ext_start_limit=1747678923&int_start_limit=1747678923&ts=1747678923&c=241564436
 高清电影频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 1905电影网(华语),http://php.jdshipin.com:8880/1905.php?id=1905dy
 1905电影网(华语),https://tv.myukj.cn/1905.php?id=1905a
@@ -156,6 +196,10 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 虹猫蓝兔,http://dns.yiandrive.com:15907/huya/22592516
 樱桃小丸子,https://live.iill.top/huya/11342394
 樱桃小丸子,http://dns.yiandrive.com:15907/huya/11342394
+七龙珠,https://live.iill.top/huya/11601966
+七龙珠,http://dns.yiandrive.com:15907/huya/11601966
+七龙珠解说,https://live.iill.top/huya/25650806
+七龙珠解说,http://dns.yiandrive.com:15907/huya/25650806
 
 小小猫和老鼠,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/4073ef3fd8744b9eb7177ff4c94fd1df/850.m3u8
 小小猫和老鼠,https://hls.cntv.lxdns.com/asp/hls/1200/0303000a/3/default/4073ef3fd8744b9eb7177ff4c94fd1df/1200.m3u8
@@ -223,3 +267,4 @@ moviebox,https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 Rakuten,https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 30aTV,https://30a-tv.com/my999.m3u8
 GTN,https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
+tv4,https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
