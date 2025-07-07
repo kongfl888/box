@@ -67,10 +67,10 @@
 {"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_YsjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Anime1","name":"🐾日本┃动漫","type":3,"api":"csp_Anime1Guard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","jar":"./jar/fan2.txt;md5;6c4ab3a9d232164c75534f9060506ee5","searchable":1,"quickSearch":1,"filterable":1,"jar":"./sub/ext/qq_qiyi_mgtv.jpg"},
-{"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","jar":"./jar/fan2.txt;md5;6c4ab3a9d232164c75534f9060506ee5","searchable":1,"quickSearch":1,"filterable":1,"jar":"./sub/ext/qq_qiyi_mgtv.jpg"},
+{"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","jar":"./jar/fan2.txt;md5;6c4ab3a9d232164c75534f9060506ee5","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/qq_qiyi_mgtv.jpg"},
+{"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","jar":"./jar/fan2.txt;md5;6c4ab3a9d232164c75534f9060506ee5","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/qq_qiyi_mgtv.jpg"},
 {"key":"dr_优酷","name":"🕓优酷(官)","type":3,"api":"./libs/drpy2.min.js","ext":"./libs/youku.js"},
-{"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./sub/ext/qq_qiyi_mgtv.jpg"},
+{"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/qq_qiyi_mgtv.jpg"},
 {"key":"dr_搜狗","name":"🐶搜狗(官)","type":3,"api":"./libs/drpy2.min.js","ext":"./libs/caigou.js"},
 
 {"key":"PanSso2","name":"🐌盘他2┃三盘","type":3,"api":"csp_PanSso","jar":"./jar/fan2.txt;md5;6c4ab3a9d232164c75534f9060506ee5","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
