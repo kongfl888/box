@@ -38,6 +38,7 @@
 {"key":"json_ikun资源","name":"🐝ikun资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"json_虎牙资源","name":"🐝虎牙资源","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"json_淘片资源","name":"🐝淘片资源","type":1,"api":"https://taopianapi.com/cjapi/sda/vod/json.html","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"json_快车资源","name":"🐝快车资源","type":1,"api":"https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"py_新荐片","name":"🧡新荐片｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/新荐片.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"py_猎手影视","name":"🧡猎手｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
