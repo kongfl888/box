@@ -31,6 +31,12 @@
 {"key":"csp_xml_39影视","name":"🐝3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_暴風","name":"🐝暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"csp_xml_索尼","name":"🐝索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"csp_xml_魔都资源","name":"🐝魔都资源","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"py_新荐片","name":"🧡新荐片｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/新荐片.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"py_猎手影视","name":"🧡猎手｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/py/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"py_若惜","name":"🧡若惜｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/plugin/app/若惜追剧APP.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"py_金牌影视PY","name":"🧡金牌｜PY影视","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/plugin/html/金牌.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
 
 {"key":"dr_libvio","name":"🌤立播┃JS","type":3,"api":"./libs/drpy2.min.js","ext":"./libs/LIBVIO.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"dr_豆瓣","name":"🔍豆瓣(js)","type":3,"api":"./libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./libs/drpy.js"},
