@@ -27,13 +27,13 @@
 
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 
-{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"./jar/woog.txt;md5;d29b7750dc6fc68cfbd5d40b1503d9d0","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.nxog.fun","https://woog.xn--dkw.xn--6qq986b3xl","https://ogwo.xn--dkw.xn--6qq986b3xl"],"url_key":"woog","threadinfo":{"chunksize":299,"threads":16}}},
-{"key":"csp_欧歌C1","name":"🐲玩欧┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"./jar/woog.txt;md5;d29b7750dc6fc68cfbd5d40b1503d9d0"},
-{"key":"csp_woog2","name":"🐲欧歌┃夸快4K","type":3,"api":"csp_woog","changeable":0,"searchable":1,"filterable":1,"jar":"./jar/oga3.txt;md5;dd19c67b72b708f567d94500d7d9ab4e","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.xn--dkw.xn--6qq986b3xl"]}},
-{"key":"csp_欧歌G","name":"🐲欧歌4K┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"./jar/woogconf.txt;md5;dd19c67b72b708f567d94500d7d9ab4e"},
-{"key":"csp_红狐狸影视","name":"🧿狐狸┃影视","type":3,"jar":"./jar/ogou.txt;md5;b8ccf68972d12e3983a93b35b4024345","api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-{"key":"大师兄","name":"🧿大师┃影视","type":3,"jar":"./jar/ogou.txt;md5;b8ccf68972d12e3983a93b35b4024345","api":"csp_XBPQ","ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
-{"key":"苹果影视","name":"💡苹果｜影视","type":3,"jar":"./jar/ogou.txt;md5;b8ccf68972d12e3983a93b35b4024345","api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"./jar/woog.txt;md5;ce0e1ac1479b78f120064cc4669f40ae","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.nxog.fun","https://woog.430520.xyz","https://woog.装歌.de5.net","https://ogkk.nxog.fun"],"url_key":"woog1","threadinfo":{"chunksize":483,"threads":16}}},
+{"key":"csp_欧歌C1","name":"🐲玩欧┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"./jar/woog.txt;md5;ce0e1ac1479b78f120064cc4669f40ae"},
+{"key":"csp_woog2","name":"🐲欧歌┃夸快4K","type":3,"api":"csp_PanWebShare","changeable":0,"searchable":1,"filterable":1,"jar":"./jar/oga3.txt;md5;7c546ee0441d827c11541a81c5b98a7b","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.nxog.fun","https://woog.歌.de5.net"]}},
+{"key":"csp_欧歌G","name":"🐲欧歌4K┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"./jar/oga3.txt;md5;7c546ee0441d827c11541a81c5b98a7b"},
+
+{"key":"热播影视","name":"💡热播｜影视","type":3,"jar":"./jar/oga3.txt;md5;7c546ee0441d827c11541a81c5b98a7b","api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext": {"url": "http://v.rbotv.cn"}},
+{"key": "橘皮","name": "💡橘皮｜影视","type": 3,"jar": "./jar/ogou.txt;md5;939FFBC2941A28CA533F2653FA4B449E","api": "csp_Jpys","playerType": 1,"ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"},
 
 {"key": "YiSo2","name": "😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/Cloud-drive.txt+4k|auto|fhd" },
 {"key": "UpYun2","name": "😻Up搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/Cloud-drive.txt+4k|auto|fhd" },
